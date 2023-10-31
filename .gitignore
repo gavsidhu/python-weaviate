@@ -1,0 +1,6 @@
+second-brain/
+test/
+cleaned_data.json
+data.json
+__pycache__
+venv/
